@@ -17,6 +17,7 @@
 		E7CC6EE122A4417C009D8E27 /* TaskInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CC6EDB22A4417C009D8E27 /* TaskInfo.swift */; };
 		E7CC6EE222A4417C009D8E27 /* TaskMake.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CC6EDC22A4417C009D8E27 /* TaskMake.swift */; };
 		E7CC6EE322A4417C009D8E27 /* Variable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CC6EDD22A4417C009D8E27 /* Variable.swift */; };
+		E7EACCBD22B468F30063D9BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7EACCBC22B468F30063D9BD /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E7CC6EDB22A4417C009D8E27 /* TaskInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskInfo.swift; sourceTree = "<group>"; };
 		E7CC6EDC22A4417C009D8E27 /* TaskMake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskMake.swift; sourceTree = "<group>"; };
 		E7CC6EDD22A4417C009D8E27 /* Variable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Variable.swift; path = ../../TaskViewerApp/TaskViewerApp/Variable.swift; sourceTree = "<group>"; };
+		E7EACCBC22B468F30063D9BD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				E7CC6EC222A43F94009D8E27 /* AppDelegate.swift */,
 				E7CC6ED722A4417C009D8E27 /* HomeController.swift */,
 				E7CC6ED822A4417C009D8E27 /* Protocols.swift */,
+				E7EACCBC22B468F30063D9BD /* Main.storyboard */,
 				E7CC6EDD22A4417C009D8E27 /* Variable.swift */,
 				E7CC6ED922A4417C009D8E27 /* ViewerGroupe */,
 				E7CC6ECC22A43F95009D8E27 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7EACCBD22B468F30063D9BD /* Main.storyboard in Resources */,
 				E7CC6ED022A43F95009D8E27 /* LaunchScreen.storyboard in Resources */,
 				E7CC6ECD22A43F95009D8E27 /* Assets.xcassets in Resources */,
 			);
