@@ -18,6 +18,7 @@
 		E7CC6EE222A4417C009D8E27 /* TaskMake.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CC6EDC22A4417C009D8E27 /* TaskMake.swift */; };
 		E7CC6EE322A4417C009D8E27 /* Variable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CC6EDD22A4417C009D8E27 /* Variable.swift */; };
 		E7EACCBD22B468F30063D9BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7EACCBC22B468F30063D9BD /* Main.storyboard */; };
+		E7EB098022D0EB1C0014CC52 /* TaskMake2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EB097F22D0EB1C0014CC52 /* TaskMake2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E7CC6EDC22A4417C009D8E27 /* TaskMake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskMake.swift; sourceTree = "<group>"; };
 		E7CC6EDD22A4417C009D8E27 /* Variable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Variable.swift; path = ../../TaskViewerApp/TaskViewerApp/Variable.swift; sourceTree = "<group>"; };
 		E7EACCBC22B468F30063D9BD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		E7EB097F22D0EB1C0014CC52 /* TaskMake2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskMake2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				E7CC6EDA22A4417C009D8E27 /* HomeView.swift */,
 				E7CC6EDB22A4417C009D8E27 /* TaskInfo.swift */,
 				E7CC6EDC22A4417C009D8E27 /* TaskMake.swift */,
+				E7EB097F22D0EB1C0014CC52 /* TaskMake2.swift */,
 			);
 			name = ViewerGroupe;
 			path = ../../TaskViewerApp/TaskViewerApp/ViewerGroupe;
@@ -166,6 +169,7 @@
 				E7CC6EE322A4417C009D8E27 /* Variable.swift in Sources */,
 				E7CC6EDE22A4417C009D8E27 /* HomeController.swift in Sources */,
 				E7CC6EE222A4417C009D8E27 /* TaskMake.swift in Sources */,
+				E7EB098022D0EB1C0014CC52 /* TaskMake2.swift in Sources */,
 				E7CC6EE122A4417C009D8E27 /* TaskInfo.swift in Sources */,
 				E7CC6EE022A4417C009D8E27 /* HomeView.swift in Sources */,
 				E7CC6ECB22A43F94009D8E27 /* todoTaskIcon.xcdatamodeld in Sources */,
